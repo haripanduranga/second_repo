@@ -1,2 +1,2 @@
 # second_repo
-for practice
+for practice purpose
